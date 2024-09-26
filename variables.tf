@@ -61,4 +61,3 @@ variable "peering_enabled" {
   type        = bool
   default     = true
 }
-
